@@ -1,0 +1,1 @@
+print("first_script.py is running")
